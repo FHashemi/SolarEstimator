@@ -9,3 +9,4 @@
 - Run `npm run check`, `npm test`, and `npm run build` plus real mobile/desktop browser screenshots in the actual target environment.
 - Document both passed and blocked checks honestly in `docs/IMPLEMENTATION_REPORT_EN.md`.
 - Update `docs/ACCEPTANCE_MATRIX_EN.md` for each milestone with path/file evidence, not empty claims.
+

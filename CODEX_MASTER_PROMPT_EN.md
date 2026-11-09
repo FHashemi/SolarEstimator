@@ -257,3 +257,4 @@ Your answer is NOT complete merely because code files exist. **Execute, test and
 If you encounter a dependency blocker (no API access, lack of map tiles, unresolved tariff sources or missing Vmp temperature curve), continue other implementation work, make the blocker visible in UI/report and recommend a specific solution. Do not backfill unknown values with generated numbers.
 
 **Independent review handoff:** the user will share `docs/IMPLEMENTATION_REPORT_EN.md`, `docs/ACCEPTANCE_MATRIX_EN.md`, source ZIP/commit and the six screenshots with ChatGPT. Write these documents expecting detailed architectural, mathematical, UX, security and QA verification.
+

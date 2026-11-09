@@ -38,3 +38,4 @@ Status legend: **SOURCE DONE** = code exists but full app build not verified; **
 | QA-04 | QA | Vitest and browser screenshots | BLOCKED | missing `vitest`, no compiled app | Actual test harness |
 | GIT-01 | Git | Push feature branch to user GitHub | BLOCKED | No GitHub actions visible in this session | Connected Codex/GitHub PR workflow |
 | DOC-01 | Docs | English prompt, formulas, report, matrix | SOURCE DONE | `CODEX_MASTER_PROMPT_EN.md`, `docs` | Update with executed QA evidence |
+

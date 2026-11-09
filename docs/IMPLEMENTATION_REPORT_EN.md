@@ -119,3 +119,4 @@ The default sample site is 20m × 12m, 75% usable with 0.82 packing factor, Trin
 ## 9. Handoff to independent reviewer
 
 Ask the reviewer to verify: component architecture and SCSS reuse; all six stages; data persistence and migration; electrical logic including 710W modules on 26A per-MPPT input; income/cost flow semantics; climate and pricing confidence flags; computed monthly/annual charts; real screenshots; actual test output; and GitHub PR path/commit. **Do not accept 'all implemented' claims without corresponding source and test evidence.**
+
